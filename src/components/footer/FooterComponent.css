@@ -1,0 +1,29 @@
+.content {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content h1 {
+  color: #e8bf10;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.content p {
+  color: white;
+  font-size: 16px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.footer-logo {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=FooterComponent.css.map */

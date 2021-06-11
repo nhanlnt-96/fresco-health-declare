@@ -1,0 +1,54 @@
+.ant-form {
+  padding-top: 24px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ant-form .ant-form-item {
+  width: 80%;
+}
+.ant-form .ant-form-item .ant-input-number {
+  width: 100%;
+}
+.ant-form .ant-form-item:last-child .ant-form-item-control {
+  display: flex;
+  align-items: center;
+}
+.ant-form .ant-form-item label {
+  font-size: 16px;
+  font-weight: bold;
+}
+.ant-form .ant-form-item .ant-checkbox-group {
+  display: flex;
+  flex-direction: column;
+}
+.ant-form .ant-form-item .ant-checkbox-group .ant-checkbox-wrapper {
+  line-height: 35px;
+  margin-left: 20px;
+}
+.ant-form .ant-form-item .ant-checkbox-group .ant-checkbox-wrapper span:last-child {
+  font-weight: normal;
+}
+.ant-form .ant-form-item .ant-checkbox-group .ant-input {
+  margin-top: 10px;
+}
+.ant-form .ant-form-item table {
+  width: 100%;
+}
+.ant-form .ant-form-item table tr {
+  height: 35px;
+}
+.ant-form .ant-form-item table tr td {
+  padding-left: 20px;
+  font-size: 16px;
+}
+.ant-form .ant-form-item table tr td:last-child {
+  text-align: right;
+}
+.ant-form .ant-form-item .ant-radio-wrapper span:last-child {
+  font-weight: normal;
+}
+
+/*# sourceMappingURL=DeclareForm.css.map */

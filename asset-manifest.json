@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fresco-health-declare/static/css/main.3fc676ca.chunk.css",
-    "main.js": "/fresco-health-declare/static/js/main.adf80cc3.chunk.js",
-    "main.js.map": "/fresco-health-declare/static/js/main.adf80cc3.chunk.js.map",
+    "main.js": "/fresco-health-declare/static/js/main.9159b13d.chunk.js",
+    "main.js.map": "/fresco-health-declare/static/js/main.9159b13d.chunk.js.map",
     "runtime-main.js": "/fresco-health-declare/static/js/runtime-main.d1741fb0.js",
     "runtime-main.js.map": "/fresco-health-declare/static/js/runtime-main.d1741fb0.js.map",
     "static/css/2.8c5372c1.chunk.css": "/fresco-health-declare/static/css/2.8c5372c1.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.8c5372c1.chunk.css",
     "static/js/2.7c979bc4.chunk.js",
     "static/css/main.3fc676ca.chunk.css",
-    "static/js/main.adf80cc3.chunk.js"
+    "static/js/main.9159b13d.chunk.js"
   ]
 }
